@@ -17,10 +17,7 @@ export const HomePage = () => {
     <div>
       <h1>Home Page</h1>
       <p>
-        Already have an account? <Link to="/login">Log in</Link>
-      </p>
-      <p>
-        Or <Link to="/signup">Sign up</Link>
+        Don't have an account? <Link to="/signup">Sign up</Link>
       </p>
     </div>
   );

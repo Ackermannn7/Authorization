@@ -1,0 +1,19 @@
+.signup {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.signup__form {
+  display: flex;
+  flex-direction: column;
+}
+
+.form__input{
+  font-size: 35px;
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+  letter-spacing: -1px;
+
+}
